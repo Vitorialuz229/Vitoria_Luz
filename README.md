@@ -12,7 +12,8 @@
 ## Contact
 
 <a href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">
-  <img align="center" windth="200" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="linkedin" windth="200" />
+  <img align="center" width="100" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="linkedin" />
+</a>
 </a>
 </p>
 
