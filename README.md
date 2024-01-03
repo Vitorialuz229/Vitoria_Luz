@@ -12,14 +12,11 @@
 ## Contact
 
 <a href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">
-  <img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="linkedin" windth="200" alight="100"/>
+  <img align="center" windth="200" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="linkedin" windth="200" />
 </a>
 </p>
 
 <!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
 
 **vitorialuz229/vitorialuz229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
