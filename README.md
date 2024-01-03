@@ -1,18 +1,18 @@
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitória Luz</h1>
 
 - 🔥I am a Software Engineering student at the Federal University of Goiás
 
-- 🔭 I’m currently working at Kingspan
+- 🔭 I'm currently working as an intern at Kingspan Isoeste
 
 - 💬 Ask me about **Java Spring Boot, HTML, CSS**
 
-<br><br>
+- 🌱 I’m currently learning TypeScript e React
 
+- 👯 Seeking to become a Full Stack developer
 ## Contact
 
-<a href="https://linkedin.com/in/vitoria-luz-alves-d-abadia" target="_blank">
-  <img align="center" src="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">
+  <img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="linkedin"/>
 </a>
 </p>
 
