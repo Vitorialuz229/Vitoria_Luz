@@ -23,7 +23,7 @@ Ferramentas: Git, VSCode, Postman.
 
 📧 vitorialuz831@gmail.com
 
-🔗 <a href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">Linkedin</a
+🔗 <a href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">Linkedin</a>
 
 Estou animada para fazer parte da comunidade de desenvolvimento e crescer junto com ela! Se tiver alguma dica ou sugestão, sinta-se à vontade para compartilhar. Vamos codar juntos! 🚀✨
 
