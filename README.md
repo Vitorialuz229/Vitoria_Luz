@@ -5,18 +5,26 @@
 Olá, sou Vitória 👋, uma entusiasta do mundo da programação e atualmente estou embarcando na jornada para me tornar uma desenvolvedora web full stack. 💻
 
 🌐 Sobre Mim
+
 🎓 Atualmente fazendo graduação em engenharia de Software na Universidade Federal de Goiás.
+
 🌱 Explorando as maravilhas do desenvolvimento front-end e back-end.
+
 💡 Sempre em busca de aprender novas tecnologias e práticas de programação.
+
 🚀 Tecnologias em Foco
+
 Front-end: HTML5, CSS3, JavaScript, ReactJS.
 Back-end: Node.js, Java.
 Banco de Dados: MongoDB, MySQL.
 Ferramentas: Git, VSCode, Postman.
 
 📫 Vamos Conversar
+
 📧 vitorialuz831@gmail.com
-🔗 <a LinkedIn href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">
+
+🔗 <a LinkedIn href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank"/>
+
 Estou animada para fazer parte da comunidade de desenvolvimento e crescer junto com ela! Se tiver alguma dica ou sugestão, sinta-se à vontade para compartilhar. Vamos codar juntos! 🚀✨
 
 <!--
