@@ -15,8 +15,11 @@ Olá, sou Vitória 👋, uma entusiasta do mundo da programação e atualmente e
 🚀 Tecnologias em Foco
 
 Front-end: HTML5, CSS3, JavaScript, ReactJS.
-Back-end: Node.js, Java.
+
+Back-end: Node.js, Java, Spring Boot.
+
 Banco de Dados: MongoDB, MySQL.
+
 Ferramentas: Git, VSCode, Postman.
 
 📫 Vamos Conversar
