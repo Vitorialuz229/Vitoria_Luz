@@ -1,21 +1,23 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitória Luz</h1>
 
-- 🔥I am a Software Engineering student at the Federal University of Goiás
+👩‍💻 Desenvolvedora Web Aspirante | Estudante Full Stack | Estudante Engenharia de Software
 
-- 🔭 I'm currently working as an intern at Kingspan Isoeste
+Olá, sou Vitória 👋, uma entusiasta do mundo da programação e atualmente estou embarcando na jornada para me tornar uma desenvolvedora web full stack. 💻
 
-- 💬 Ask me about **Java Spring Boot, HTML, CSS**
+🌐 Sobre Mim
+🎓 Atualmente fazendo graduação em engenharia de Software na Universidade Federal de Goiás.
+🌱 Explorando as maravilhas do desenvolvimento front-end e back-end.
+💡 Sempre em busca de aprender novas tecnologias e práticas de programação.
+🚀 Tecnologias em Foco
+Front-end: HTML5, CSS3, JavaScript, ReactJS.
+Back-end: Node.js, Java.
+Banco de Dados: MongoDB, MySQL.
+Ferramentas: Git, VSCode, Postman.
 
-- 🌱 I’m currently learning TypeScript e React
-
-- 👯 Seeking to become a Full Stack developer
-## Contact
-
-<a href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">
-  <img align="center" width="50" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="linkedin" />
-</a>
-</a>
-</p>
+📫 Vamos Conversar
+📧 vitorialuz831@gmail.com
+🔗 <a LinkedIn href="https://www.linkedin.com/in/vit%C3%B3ria-luz-alves-d%E2%80%99-abadia-600573239" target="_blank">
+Estou animada para fazer parte da comunidade de desenvolvimento e crescer junto com ela! Se tiver alguma dica ou sugestão, sinta-se à vontade para compartilhar. Vamos codar juntos! 🚀✨
 
 <!--
 
